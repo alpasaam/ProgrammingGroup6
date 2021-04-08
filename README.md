@@ -11,3 +11,7 @@ This is a text based RPG game where you can control a character by typing comman
 
 ### Class Diagram
 ![alt text](https://github.com/bran214/ProgrammingGroup6/raw/main/brainstorm/Class%20Diagram.png "Class Diagram")   
+
+People that will be working on this will be:
+Saam
+Brandon
